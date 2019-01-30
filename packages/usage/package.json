@@ -1,11 +1,10 @@
 {
   "name": "usage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Test",
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "alpha": "^1.0.0"
-  },
-  "devDependencies": {}
+    "alpha": "^2.0.0"
+  }
 }
