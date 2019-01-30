@@ -1,0 +1,8 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "author": "Test",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {}
+}

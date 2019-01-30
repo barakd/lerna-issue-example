@@ -1,0 +1,13 @@
+{
+  "lerna": "3.10.7",
+  "version": "independent",
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    },
+    "version": {
+      "message": "chore(release): update versions [ci skip]"
+    }
+  },
+  "packages": ["packages/*"]
+}
